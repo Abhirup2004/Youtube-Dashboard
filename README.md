@@ -26,3 +26,9 @@ git clone https://github.com/your-username/youtube-dashboard.git
 cd youtube-dashboard
 pip install -r requirements.txt
 streamlit run main.py
+
+## 🚀 Live Demo
+
+👉 [Try the YouTube Analytics Dashboard](https://youtube-dashboard-pro.streamlit.app/)
+
+
